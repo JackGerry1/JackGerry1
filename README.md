@@ -62,7 +62,6 @@ I'm a first-year Fdsc Software Development student with a passion for creating a
 <br>
 
 ---
-
 <details>
  <summary><h2>👨‍💻 My Coding Journey</h2></summary>
 
