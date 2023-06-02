@@ -46,6 +46,13 @@ I'm a first-year Fdsc Software Development student with a passion for creating a
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackgerry1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jackgerry1" /></p>
 
