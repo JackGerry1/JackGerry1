@@ -12,7 +12,7 @@ I'm a first-year Fdsc Software Development student with a passion for creating a
 ---
 
 ## 📫 Contact Me
-<a href="mailto:your-email@example.com" target="_blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" alt="ProtonMail" height="50px" width="50px" /></a> 
+<a href="jackg2667@protonmail.com" target="_blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" alt="ProtonMail" height="50px" width="50px" /></a> 
 
 ---
 
@@ -21,6 +21,8 @@ I'm a first-year Fdsc Software Development student with a passion for creating a
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" alt="jQuery" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
 <img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -74,31 +76,3 @@ Thanks to my dedication and hard work, I excelled in the ECICT course, achieving
 My journey so far has been filled with continuous growth and learning. I am thrilled to explore new technologies, enhance my programming skills, and apply my knowledge to real-world projects. With each step forward, I am getting closer to achieving my goal of becoming a proficient software developer.
 
 I am excited to continue this journey, embrace new challenges, and contribute to the world of coding through my GitHub profile. Stay tuned for more exciting projects and developments!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**JackGerry1/JackGerry1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
