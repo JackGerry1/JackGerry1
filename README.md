@@ -7,7 +7,7 @@ I'm a first-year Fdsc Software Development student with a passion for creating a
 
 - 📖 I’m currently improving at **Javascript & PHP**
   
-- 🌱 In the future I will be working on **Mobile App Development & Data Structures & Algorithms**
+- 🌱 In the future I will be learning about **Mobile App Development & Data Structures & Algorithms**
 
 ---
 
