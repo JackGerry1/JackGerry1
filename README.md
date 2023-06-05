@@ -40,9 +40,11 @@ I am a first-year Fdsc Software Development student with a passion for creating 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jackgerry1&&theme=tokyonight" alt="jackgerry1" /></p>
 
 <br>
+<br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jackgerry1&show_icons=true&theme=tokyonight&locale=en" alt="jackgerry1" /></p>
 
+<br>
 <br>
 <br>
 <br>
