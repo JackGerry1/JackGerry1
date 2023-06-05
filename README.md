@@ -31,16 +31,16 @@ I am a first-year Fdsc Software Development student with a passion for creating 
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-<br>
-<br>
-<br>
-<br>
 
 ---
 ## 📊 Github Stats
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jackgerry1&&theme=tokyonight" alt="jackgerry1" /></p>
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
