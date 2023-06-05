@@ -1,7 +1,7 @@
 # Jack Gerry 
 **`Just a guy, trying to learn computer science`**
 
-I'm a first-year Fdsc Software Development student with a passion for creating a diverse range of projects. My expertise spans web development using HTML, CSS, JavaScript, jQuery, PHP, and SQL, as well as developing programs in Python and C#. I particularly enjoy exploring the intersection of mathematics and programming, using my skills to solve complex problems and create innovative solutions.
+I am a first-year Fdsc Software Development student with a passion for creating a diverse range of projects. My expertise spans web development using HTML, CSS, JavaScript, jQuery, PHP, and SQL, as well as developing programs in Python and C#. I particularly enjoy exploring the intersection of mathematics and programming, using my skills to solve complex problems and create innovative solutions.
 
 - 🔭 I’m currently working on an **Improved Mastermind C# GUI Game**
 
