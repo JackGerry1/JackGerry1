@@ -37,11 +37,11 @@ I am a first-year Fdsc Software Development student with a passion for creating 
 ---
 ## 📊 Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jackgerry1&&theme=tokyonight" alt="jackgerry1" /></p>
+
 
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jackgerry1&show_icons=true&locale=en&theme=tokyonight" alt="jackgerry1" />  </p>
+
 
 <br>
 <br>
@@ -53,7 +53,6 @@ I am a first-year Fdsc Software Development student with a passion for creating 
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackgerry1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jackgerry1" /></p>
 
 <br>
 <br>
