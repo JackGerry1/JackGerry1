@@ -31,28 +31,6 @@ I am a first-year Fdsc Software Development student with a passion for creating 
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-
----
-## 📊 Github Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JackGerry1&&theme=tokyonight" alt="JackGerry1" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JackGerry1&show_icons=true&theme=tokyonight&locale=en" alt="jackgerry1" /></p>
-
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JackGerry1&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jackgerry1" /></p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ---
 <details>
  <summary><h2>👨‍💻 My Coding Journey</h2></summary>
