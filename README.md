@@ -12,7 +12,8 @@ I am a first-year Fdsc Software Development student with a passion for creating 
 ---
 
 ## 📫 Contact Me
-<a href="jackg2667@protonmail.com" target="_blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" alt="ProtonMail" height="50px" width="50px" /></a> 
+[![linkedin link](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jackgerry)
+[![protonmail link](https://img.shields.io/badge/ProtonMail-3A6EA5?style=for-the-badge&logo=protonmail&logoColor=white)](https://protonmail.com)
 
 ---
 
